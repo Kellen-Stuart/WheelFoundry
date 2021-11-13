@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WheelFoundry", "WheelFoundry\WheelFoundry.csproj", "{D728453B-5BCC-4B9E-80C7-9E877F1F68EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D728453B-5BCC-4B9E-80C7-9E877F1F68EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D728453B-5BCC-4B9E-80C7-9E877F1F68EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D728453B-5BCC-4B9E-80C7-9E877F1F68EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D728453B-5BCC-4B9E-80C7-9E877F1F68EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
